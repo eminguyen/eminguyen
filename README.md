@@ -19,7 +19,7 @@ I'm a Seattle based software engineer who specializes in front-end but does full
 <a href="https://linkedin.com/in/emilyhuongnguyen">
   <img align="left" alt="Emily's LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/empressily">
+<a href="https://medium.com/@emilyhuongnguyen">
   <img align="left" alt="Emily's Medium" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="https://www.facebook.com/empressily">
