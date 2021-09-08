@@ -2,7 +2,7 @@
 Hey I'm Emily!
 ---
 
-I'm a software engineer based in Seattle who specializes in front-end but does full-stack for a living. I'm passionate about youth development, LGBTQIA+ activism, and animal rights.  My free time's spent volunteering, running marathons, consuming tons of kbbq and boba, and going on adventures with my loved ones. Hope you enjoy my work!
+I'm a Seattle based software engineer who specializes in front-end but does full-stack for a living. I'm passionate about youth development, LGBTQIA+ activism, and animal rights.  My free time's spent volunteering, running marathons, consuming tons of kbbq and boba, and going on adventures with my loved ones. Hope you enjoy my work!
 
 **Software Engineer**, _Google_ &nbsp;&nbsp;&nbsp;
 **Founder**, _ACM UCSD_ &nbsp;&nbsp;&nbsp;
