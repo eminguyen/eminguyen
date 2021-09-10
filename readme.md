@@ -6,7 +6,8 @@ I'm a Seattle based software engineer who specializes in front-end but does full
 
 **Software Engineer**, _Google_ &nbsp;&nbsp;&nbsp;
 **Founder**, _ACM @ UCSD_ &nbsp;&nbsp;&nbsp;
-**Top 50**, _Major League Hacking_
+**Top 50**, _Major League Hacking_ &nbsp;&nbsp;&nbsp;
+**Comp Eng & Design**, _UC San Diego_
 <br/>
 <br/>
 
