@@ -5,7 +5,7 @@ Hey I'm Emily!
 I'm a Seattle based software engineer who specializes in front-end but does full-stack for a living. I'm passionate about youth development, LGBTQIA+ activism, and animal rights.  My free time's spent running marathons, consuming tons of kbbq and hot pot, and going on adventures with my loved ones. Hope you enjoy my work!
 
 **Software Engineer**, _Google_ &nbsp;&nbsp;&nbsp;
-**Founder**, _ACM UCSD_ &nbsp;&nbsp;&nbsp;
+**Founder**, _ACM @ UCSD_ &nbsp;&nbsp;&nbsp;
 **Top 50**, _Major League Hacking_
 <br/>
 <br/>
@@ -22,6 +22,6 @@ I'm a Seattle based software engineer who specializes in front-end but does full
 <a href="https://medium.com/@emilyhuongnguyen">
   <img align="left" alt="Emily's Medium" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="https://www.facebook.com/empressily">
+<a href="https://www.strava.com/athletes/18678952">
   <img align="left" alt="Emily's Strava" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/strava.svg" />
 </a>
