@@ -2,7 +2,7 @@
 Hey I'm Emily!
 ---
 
-I'm a software engineer who specializes in front end but does full stack for a living. Nowadays, coding's just a work thing for me - most of my time's really spent running marathons, consuming loads of boba, and going on super fun adventures. I'm also crazy passionate about youth development and LGBTQIA+ activism, and can be found volunteering at schools or fighting for my community's rights.  Hope you enjoy my work!
+I'm a software engineer who specializes in front end but does full stack for a living. Nowadays, coding's just a work thing for me - most of my time's really spent running marathons, consuming loads of boba, and going on super fun adventures around the world with my partner. I'm also passionate about youth development and LGBTQIA+ activism, and can be found volunteering at schools or marching at Pride.  Hope you enjoy my work!
 
 **Software Engineer**, _Google_ &nbsp;&nbsp;&nbsp;
 **Founder**, _ACM @ UCSD_ &nbsp;&nbsp;&nbsp;
